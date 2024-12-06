@@ -5,11 +5,11 @@ export default function Home() {
     <div className="">
       <main>
         <div className="flex flex-col  justify-center items-center mt-[40vh] font-mono">
-          <h1 className="capitalize text-[5rem] ">welcome to</h1>
-          <h2 className="capitalize text-[3rem] font-semibold">
+          <h1 className="capitalize text-3xl  md:text-7xl ">welcome to</h1>
+          <h2 className="capitalize text-xl md:text-4xl font-semibold">
             byteflare technologies
           </h2>
-          <p className="capitalize text-xl">
+          <p className="capitalize text-sm md:text-xl text-center mx-3">
             We Engineer Solutions, You Lead the Revolution.😎
           </p>
         </div>
